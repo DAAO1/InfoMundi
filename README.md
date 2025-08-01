@@ -159,11 +159,3 @@ El **frontend (`index.html`)** permite:
 
 ---
 
-## 📋 Evidencias para la entrega
-- Swagger con endpoints funcionando.  
-- Carpeta `backups/` con CSV y logs.  
-- Frontend mostrando favoritos y datos limpios.  
-- Ejemplo de ejecución automática (logs con timestamps diferentes).  
-
----
-
